@@ -3,6 +3,7 @@ class Animal {
     // color: string;
     // sound: string;
     constructor(public name: string, public color: string, public sound: string) {
+        //initializing
         // this.name = name
         // this.color = color
         // this.sound = sound
